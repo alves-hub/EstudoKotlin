@@ -3,7 +3,7 @@ package com.example.demo
 fun main(args: Array<String>){
     println("INSERIR SUA IDADE:")
     val idade = readLine()?.toInt()
-    // Da pra fazer com if tambem porem com when ficaria menos verboso
+    // Da pra fazer com if tambem porem com when ficaria menos verboso subtitui o swite case do java
 
   /*  if(idade in 1..17){
         println("Crianca")
